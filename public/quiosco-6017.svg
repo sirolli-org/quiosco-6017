@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="300"
+   height="150"
+   viewBox="0 0 300 150"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="quiosco-6017.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="3.08"
+     inkscape:cx="145.77922"
+     inkscape:cy="72.077922"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3">
+    <sodipodi:guide
+       position="101.62338,91.558442"
+       orientation="1,0"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="380.84416,75"
+       orientation="0,-1"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50.649351,75"
+       orientation="1,0"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="290.64844,92.145809"
+       orientation="1,0"
+       id="guide7"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="187.79654,107.98684"
+       orientation="0,-1"
+       id="guide8"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17.857143,75.974026"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="112.33766,32.467533"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <path
+     d="m 50.844156,39.285714 30,17.5 v 35 l -30,17.499996 -30,-17.499996 v -35 z"
+     stroke="#ff2d20"
+     stroke-width="6"
+     stroke-linejoin="round"
+     id="path1" />
+  <ellipse
+     cx="50.844154"
+     cy="74.61039"
+     stroke="#ff2d20"
+     stroke-width="4.46411"
+     id="circle2"
+     rx="15.91122"
+     ry="15.261871" />
+  <text
+     x="100"
+     y="73.376625"
+     fill="#2d3748"
+     style="font-weight:700;font-size:42px;font-family:'Segoe UI', Roboto, Helvetica, Arial, sans-serif;letter-spacing:-1px"
+     id="text2">QUIOSCO</text>
+  <text
+     x="100.97403"
+     y="116.9385"
+     fill="#ff2d20"
+     style="font-weight:300;font-size:38px;font-family:'Segoe UI', Roboto, Helvetica, Arial, sans-serif;letter-spacing:2px"
+     id="text3"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI', Roboto, Helvetica, Arial, sans-serif;-inkscape-font-specification:'Segoe UI, Roboto, Helvetica, Arial, sans-serif Bold'"
+       id="tspan3">6017</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3974px;font-family:'Maple Mono NF CN';-inkscape-font-specification:'Maple Mono NF CN, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ff2d20;fill-opacity:1;stroke-width:3.11645"
+     x="39.69381"
+     y="87.198891"
+     id="text4"><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       x="39.69381"
+       y="87.198891"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3974px;font-family:'Maple Mono NF CN';-inkscape-font-specification:'Maple Mono NF CN, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:3.11645">+</tspan></text>
+</svg>
