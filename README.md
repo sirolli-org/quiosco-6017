@@ -13,8 +13,8 @@ Se trata de una aplicación web diseñada para la gestión de los procesos típi
 - PHP 8.4.1+
 - Composer 2.8.12+
 - Laravel 13+
-- Node.js v24.14.1+ (LTS)
-- NPM v11.12.1+
+- Node.js v24+ (LTS)
+- NPM v11+
 - MySQL/MariaDB/SQLite
 - Servidor web (Apache o Nginx)
 
