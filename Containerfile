@@ -63,7 +63,6 @@ COPY --chown=www-data:www-data database ./database
 COPY --chown=www-data:www-data resources ./resources
 COPY --chown=www-data:www-data routes ./routes
 COPY --chown=www-data:www-data artisan ./artisan
-COPY --chown=www-data:www-data .env.example ./.env
 COPY --chown=www-data:www-data public ./public
 
 # Copy built assets from the node stage.
@@ -92,9 +91,6 @@ RUN mkdir -p \
         /var/log/apache2 \
     && touch database/database.sqlite \
     && chown -R www-data:www-data /app /var/run/apache2 /var/lock/apache2 /var/log/apache2
-
-# Generate an application key for the image defaults.
-RUN php artisan key:generate --force
 
 USER www-data
 
