@@ -6,82 +6,27 @@ El proyecto utiliza el [framework Laravel](https://laravel.com/), un conjunto de
 
 ## Resumen
 
-Se trata de una aplicación web diseñada para la gestión de los procesos típicos de un quiosco, como la administración de productos, ventas, clientes y reportes. Está pensada para ser utilizada por los propietarios o empleados de un quiosco para facilitar la gestión diaria del negocio y mejorar la eficiencia en las operaciones.
+Aplicación web orientada a simplificar la gestión cotidiana de un quiosco: administración de productos, registro de ventas, seguimiento de clientes y generación de reportes. Pensada tanto para propietarios como para empleados, busca centralizar las operaciones del negocio en una herramienta práctica y accesible.
 
 ## Requisitos
 
-- PHP 8.4.1+
-- Composer 2.8.12+
+- PHP 8+
+- Composer 2+
 - Laravel 13+
-- Node.js v24+ (LTS)
+- Node.js v24+
 - NPM v11+
-- MySQL/MariaDB/SQLite
-- Servidor web (Apache o Nginx)
+- MySQL/MariaDB
+- Servidor web (Apache, Nginx o similares)
 
-## Instalación & Configuración
+## Configuración & Despliegue
 
-1. Clona el repositorio del proyecto:
-
-    ```bash
-        git clone https://github.com/sirolli-org/yaq.git
-    ```
-
-2. Navega al directorio del proyecto:
-
-    ```bash
-        cd quiosco-6017
-    ```
-
-3. Instala las dependencias del proyecto utilizando [Composer](https://getcomposer.org/):
-
-    ```bash
-        composer install
-    ```
-
-4. Instala las dependencias de JavaScript utilizando [npm](https://www.npmjs.com/):
-
-    ```bash
-        npm install
-    ```
-
-5. Configura el archivo `.env` con la información de tu base de datos y otras configuraciones necesarias:
-
-    ```bash
-        cp .env.example .env
-    ```
-
-6. Corre las migraciones para crear las tablas en la base de datos:
-
-    ```bash
-        php artisan migrate
-    ```
-
-7. Genera la clave de la aplicación:
-
-    ```bash
-        php artisan key:generate
-    ```
-
-## Desarrollo
-
-Puede iniciar el servidor de desarrollo de Laravel ejecutando el siguiente comando:
-
-```bash
-    composer run dev
-```
-
-Luego acceda a `http://localhost:8000` en su navegador para ver la aplicación en acción.
-
-## Producción
-
-Prepare para el despliegue en producción ejecutando el siguiente comando:
-
-```bash
-    npm run build
-```
-
-Por último, se tiene que configurar un servidor web (Apache o Nginx) para servir los archivos, asegurándose de apuntar al directorio `public`.
+Consulte [BUILD.md](./BUILD.md) para obtener instrucciones detalladas sobre cómo configurar y desplegar la aplicación.
 
 ## Equipo
 
-ToDo.
+- Serna, Nicolas Abel
+- Yurquina, Miguel Luciano
+- Wayar, Leandro Nahuel
+- Miranda, Emmanuel Rodrigo
+- Yucra, Enzo Rafael
+- Basualdo, David

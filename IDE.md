@@ -2,9 +2,9 @@
 
 ## VS Code
 
-### Recommended Extensions
+### Extensiones Recomendadas
 
-`.vscode/extensions.json`
+En la raíz del proyecto, cree o edite el archivo `.vscode/extensions.json`
 
 ```json
 {
@@ -23,9 +23,9 @@
 }
 ```
 
-### Settings
+### Configuración
 
-`.vscode/settings.json`
+En la raíz del proyecto, cree o edite el archivo `.vscode/settings.json`
 
 ```json
 {
