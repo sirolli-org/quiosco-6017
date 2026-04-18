@@ -1,4 +1,5 @@
-<img src="./public/yaq-logo.svg" alt="YAQ Logo" width="200" height="200" style="display: block; margin: 0 auto;" />
+
+<img src="./public/yaq-logo.svg" alt="YAQ Logo" width="400" height="400" style="display: block; margin: 0 auto;" />
 
 # YAQ - Yet Another Quiosco
 
